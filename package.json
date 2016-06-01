@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/litek/react-transform",
   "peerDependencies": {
-    "react-tools": "~0.10.0"
+    "react-tools": "0.13.3"
   },
   "devDependencies": {
     "react": "^0.10.0",
